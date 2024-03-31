@@ -1,0 +1,44 @@
+body{
+    background-color:  rgb(102, 102, 252);
+}
+
+li {
+ display: inline;
+ 
+}
+
+.container{
+    width: 100%;
+    height: 50%;
+    background: rgb(38, 38, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+form{
+    background: rgb(102, 102, 252);
+    display: flex;
+    flex-direction: column;
+    padding: 2vw 4vw;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 30px;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+
+}
+
+img {
+    border-radius: 5%;
+  }
+
+  label{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: large;
+  }
