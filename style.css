@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(102, 102, 252);
+}
+
+li {
+ display: inline;
+ color: white;
+}
+
+
+
+
+h1 {
+    box-sizing: border-box;
+    margin: 0;
+    border-radius: 20px;
+    height: 80px;
+    padding: 5;
+    background: rgb(98, 0, 255);
+    color: white;
+    text-align: center;   
+  }
+
+  h2 {
+    box-sizing: border-box;
+    margin: 0;
+    border-radius: 20px;
+    height: 80px;
+    padding: 5;
+    background: rgb(23, 20, 202);
+    color: white;
+    text-align: center;   
+  }
+ 
+  img {
+    border-radius: 5%;
+  }
+  
